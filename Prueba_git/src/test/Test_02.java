@@ -1,10 +1,10 @@
 package test;
 
-public class Test_01 {
+public class Test_02 {
 
 	public static void main(String[] args) {
 		System.out.println("hola");
-		System.out.println("hola2");
+
 	}
 
 }
